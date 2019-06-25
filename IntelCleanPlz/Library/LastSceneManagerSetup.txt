@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/RSUnityToolkit/Samples/Scenes/Sample1 - Translation.unity
+  isLoaded: 1
+  isActive: 1
